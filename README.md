@@ -1,6 +1,6 @@
 ### George Yousif
 
-Software Engineering graduate (York University, 2026) focused on backend and infrastructure development. Currently applying to entry-level SWE roles, with particular interest in payments and data systems.
+Software Engineering graduate focused on backend and infrastructure development. Currently applying to entry-level SWE roles, with particular interest in payments and data systems.
 
 - 🎓 B.Eng, Specialized Honours in Software Engineering — York University
 - 🔭 Interested in backend systems, APIs, and database design

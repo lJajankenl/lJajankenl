@@ -2,7 +2,7 @@
 
 Software Engineering graduate focused on backend and infrastructure development. Currently applying to entry-level software engineering roles, with particular interest in payments, data systems, and APIs.
 
-- 🎓 B.Eng, Specialized Honours in Software Engineering — York University
+- 🎓 B.Eng, Specialized Honours in Software Engineering
 - 🔭 Interested in backend systems, APIs, database design, and containerized infrastructure
 - 📌 Each repo below has a write-up of what I built on that project
 
